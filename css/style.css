@@ -1,0 +1,163 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(218, 220, 222);
+    font-family: Arial, sans-serif;
+}
+
+.start {
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+    padding-top: 0;
+    margin-top: 15px;
+}
+
+.gg,
+.ggg {
+    margin: 0;
+    padding: 0;
+}
+
+.ggg {
+    color: rgb(105, 130, 156);
+}
+
+.mid-start {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 15px;
+}
+
+.mid-input {
+    display: flex;
+    flex-direction: column;
+    border-color: blue;
+    width: 1030px;
+    height: 36px;
+    padding: 0 0 0 5px;
+}
+
+.mid-btn {
+    background-color: blue;
+    color: #fff;
+    width: 108px;
+    height: 36px;
+    border-radius: 10%;
+    border: none;
+    cursor: pointer;
+}
+
+.progreska-zona {
+    margin: 20px 15px;
+    max-width: 1148px;
+}
+
+.X-X-X-text-info {
+    font-size: 14px;
+    color: #4a5568;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.sariq-chizik-emas {
+    width: 100%;
+    height: 8px;
+    background-color: #cbd5e0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.tochka-33-foiz {
+    width: 33%;
+    height: 100%;
+    background-color: #2b6cb0;
+}
+
+.bosh-kosmos-doska {
+    display: flex;
+    gap: 15px;
+    margin: 0 15px 30px 15px;
+}
+
+.uyda-otirganlar {
+    background-color: #e2e8f0;
+    border-radius: 8px;
+    padding: 12px;
+    width: 270px;
+    min-height: 380px;
+    display: flex;
+    flex-direction: column;
+}
+
+.boshliklar-yigini {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.xozircha-tinch {
+    font-weight: bold;
+    font-size: 16px;
+    color: #1a202c;
+}
+
+.sanoq-mashinasi {
+    background-color: #cbd5e0;
+    color: #4a5568;
+    border-radius: 12px;
+    padding: 2px 8px;
+    font-size: 12px;
+}
+
+.qizil-chizigcha {
+    height: 3px;
+    background-color: #e53e3e;
+    margin-bottom: 12px;
+    border-radius: 2px;
+}
+
+.kartoshka-quti {
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 14px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+.tugatilgan-ishi {
+    text-decoration: line-through;
+    color: #718096;
+}
+
+.xapamatuz-musorxona {
+    background-color: transparent;
+    border: 2px dashed #a0aec0;
+}
+
+.musor-qutisi-ichida {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    color: #718096;
+}
+
+.baqirayotgan-baklashka {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.nol-Sanoq {
+    font-size: 13px;
+}
